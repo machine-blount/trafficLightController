@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+when powered sequences 3 leds on 1 at a time in a loop, from green -> yellow -> red
 
 ## How to test
 
-Explain how to use your project
+after powered output 1 should go high first the 4 seconds later, then 2, then 3, then it should cycle back around 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+3 LED's
